@@ -6,4 +6,4 @@
  * Time: 20:39
  */
 $me = 'Mihai';
-echo 'Hello ' . $me;
+
