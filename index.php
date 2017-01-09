@@ -5,5 +5,5 @@
  * Date: 09/01/2017
  * Time: 20:39
  */
-$me = 'Raul';
+$me = 'Mihai';
 echo 'Hello ' . $me;
